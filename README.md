@@ -4,6 +4,8 @@ TASK 2: Encode Categorical Columns.
 Converted Categorical variables into numerical form by applying:
 * One_Hot Encoding to 'city' column 
 * Label Encoding to 'gender' column
+
+
 TASK 3: Scale Numerical Features.
 Scaled numerical features('age', 'annual_income') using:
 * Min-Max Scaling
